@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wass8\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wass8\\.nuget\\packages"
+    ]
+  }
+}
